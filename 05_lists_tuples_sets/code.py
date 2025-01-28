@@ -1,6 +1,6 @@
-l = ["Bob", "Rolf", "Anne"]
-t = ("Bob", "Rolf", "Anne")
-s = {"Bob", "Rolf", "Anne"}
+l = ["Bob", "Rolf", "Anne"]    # list 
+t = ("Bob", "Rolf", "Anne")    # tuples
+s = {"Bob", "Rolf", "Anne"}    # sets
 
 # Access individual items in lists and tuples using the index.
 
